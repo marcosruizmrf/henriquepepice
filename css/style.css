@@ -392,6 +392,17 @@ ul.grid {
   margin-left: 0;
 }
 
+.col-centered {
+  float: none;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+.container-fluid {
+  border-radius: 10px; /* Altere esse valor para ajustar o arredondamento desejado */
+  /* Outros estilos do container */
+}
+
 #about .about-me h3 {
   font-size: 25px;
   background-color: #9c0707;
